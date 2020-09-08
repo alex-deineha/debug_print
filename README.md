@@ -1,6 +1,6 @@
 # Debug print
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alex-deineha/debug_print/master/images/Screenshot%202020-04-27%20at%2019.41.19.png?token=AEN5M2C4AG5PTI2UISBOOTC7K5NHO">
+  <img src="https://raw.githubusercontent.com/alex-deineha/debug_print/master/images/Screenshot%202020-04-27%20at%2019.41.19.png">
 </p>
 
 Usually while I am fast developing on jupiter-notebook in 
